@@ -32,3 +32,4 @@ $("#block-tovar-grid").hide();
 $("#block-tovar-list").show();    
 }
 });
+alert("Hello Frunze!");
